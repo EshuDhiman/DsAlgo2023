@@ -1,0 +1,917 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Questions.test.Test",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "dupilateString",
+      "request": "launch",
+      "mainClass": "Questions.test.dupilateString",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "FindAndReplacePattern",
+      "request": "launch",
+      "mainClass": "Questions.StringsQuestions.FindAndReplacePattern",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "TargetEmployees",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.TargetEmployees",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "TruncateSentance",
+      "request": "launch",
+      "mainClass": "Questions.StringsQuestions.TruncateSentance",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "JumpGame",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.JumpGame",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "NumberSmallerThanCurrent",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.NumberSmallerThanCurrent",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "RotateArray",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.RotateArray",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "MissingNumber",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.MissingNumber",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "Questions.BinaryTree.Solution",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "Solution",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "BinaryTree",
+      "request": "launch",
+      "mainClass": "Concepts.Tree.BinaryTree",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "TransposeMatrix",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.TransposeMatrix",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Square",
+      "request": "launch",
+      "mainClass": "Questions.Maths.Square",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "GoalParser",
+      "request": "launch",
+      "mainClass": "Questions.StringsQuestions.GoalParser",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "TwoStringArrayEqualOrNot",
+      "request": "launch",
+      "mainClass": "Questions.StringsQuestions.TwoStringArrayEqualOrNot",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "twoSumMediumLevel",
+      "request": "launch",
+      "mainClass": "Questions.StringsQuestions.twoSumMediumLevel",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "AddDigits",
+      "request": "launch",
+      "mainClass": "Questions.Maths.AddDigits",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "IsSubsequence",
+      "request": "launch",
+      "mainClass": "Questions.StringsQuestions.IsSubsequence",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "ValidPalindrome",
+      "request": "launch",
+      "mainClass": "Questions.StringsQuestions.ValidPalindrome",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "NeedleInHaystack",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.NeedleInHaystack",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "NumberDivideByItsDigit",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.NumberDivideByItsDigit",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "LongestCommonPrefix",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.LongestCommonPrefix",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "LengthOfLastWord",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.LengthOfLastWord",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "RomanToInteger",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.RomanToInteger",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "BestTimeToBuySellStocksEasy",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.BestTimeToBuySellStocksEasy",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "MajorityElement",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.MajorityElement",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "RemovDuplicatesFromSortedArray",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.RemovDuplicatesFromSortedArray",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "RemoveElement",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.RemoveElement",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "MergeSortedArray",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.MergeSortedArray",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "MedianOfTwoMergedArrays",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.MedianOfTwoMergedArrays",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Sum2",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.Sum2",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "BubbleSort",
+      "request": "launch",
+      "mainClass": "Concepts.BubbleSort.BubbleSort",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Duplicate",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.Duplicate",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "patteren9",
+      "request": "launch",
+      "mainClass": "Questions.Patterns.patteren9",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Pattern8",
+      "request": "launch",
+      "mainClass": "Questions.Patterns.Pattern8",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Patterb7",
+      "request": "launch",
+      "mainClass": "Questions.Patterns.Patterb7",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Pattern6",
+      "request": "launch",
+      "mainClass": "Questions.Patterns.Pattern6",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Pattern5",
+      "request": "launch",
+      "mainClass": "Questions.Patterns.Pattern5",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Pattern4",
+      "request": "launch",
+      "mainClass": "Questions.Patterns.Pattern4",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Pattern3",
+      "request": "launch",
+      "mainClass": "Questions.Patterns.Pattern3",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Pattern2",
+      "request": "launch",
+      "mainClass": "Questions.Patterns.Pattern2",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Pattern1",
+      "request": "launch",
+      "mainClass": "Questions.Patterns.Pattern1",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "FirstAndLast",
+      "request": "launch",
+      "mainClass": "Questions.BinarySearch.FirstAndLast",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "FirstOcc",
+      "request": "launch",
+      "mainClass": "Questions.BinarySearch.FirstOcc",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "BinarySearch",
+      "request": "launch",
+      "mainClass": "Concepts.Searching.BinarySearch",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Inorder",
+      "request": "launch",
+      "mainClass": "Concepts.BS.Inorder",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "BSTO",
+      "request": "launch",
+      "mainClass": "Concepts.BS.BSTO",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Binary_Search_Tree_Operations",
+      "request": "launch",
+      "mainClass": "Concepts.BS.Binary_Search_Tree_Operations",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "BinaryTree",
+      "request": "launch",
+      "mainClass": "Concepts.BS.BinaryTree",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Case3",
+      "request": "launch",
+      "mainClass": "Concepts.HasingFun.Case3",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Case2",
+      "request": "launch",
+      "mainClass": "Concepts.HasingFun.Case2",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Case1",
+      "request": "launch",
+      "mainClass": "Concepts.HasingFun.Case1",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch LLStacks",
+      "request": "launch",
+      "mainClass": "Concepts.Stacks.LLStacks",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch QueueUsingCircularArray",
+      "request": "launch",
+      "mainClass": "Concepts.Queue.QueueUsingCircularArray",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch CustomQueue",
+      "request": "launch",
+      "mainClass": "Concepts.Queue.CustomQueue",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch CustomArrayStack",
+      "request": "launch",
+      "mainClass": "Concepts.Stacks.CustomArrayStack",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch CustomStack",
+      "request": "launch",
+      "mainClass": "Concepts.Stacks.CustomStack",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch DequeueCollection",
+      "request": "launch",
+      "mainClass": "Concepts.Queue.DequeueCollection",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch StacksCollection",
+      "request": "launch",
+      "mainClass": "Concepts.Stacks.StacksCollection",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch DeleteANodeInDoublyLL",
+      "request": "launch",
+      "mainClass": "Questions.LinkedList.DeleteANodeInDoublyLL",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch DoublyLinkedList",
+      "request": "launch",
+      "mainClass": "Concepts.LinkedList.DoublyLinkedList",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch SinglyLinkedList",
+      "request": "launch",
+      "mainClass": "Concepts.LinkedList.SinglyLinkedList",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch LinearSearch",
+      "request": "launch",
+      "mainClass": "TEST.LinearSearch",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch LinkedListMain",
+      "request": "launch",
+      "mainClass": "Concepts.LinkedList.LinkedListMain",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch CollectionQueue",
+      "request": "launch",
+      "mainClass": "Concepts.Queue.CollectionQueue",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch InfixToPrefix",
+      "request": "launch",
+      "mainClass": "TEST.InfixToPrefix",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch PostfixEvaluator",
+      "request": "launch",
+      "mainClass": "TEST.PostfixEvaluator",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch PostfixToInfixConversion",
+      "request": "launch",
+      "mainClass": "TEST.PostfixToInfixConversion",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch FirstElementToOccurKTimens",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.FirstElementToOccurKTimens",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Matrix2LL",
+      "request": "launch",
+      "mainClass": "TEST.Matrix2LL",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch ArrList",
+      "request": "launch",
+      "mainClass": "Concepts.Array.ArrList",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Array2D",
+      "request": "launch",
+      "mainClass": "Concepts.Array.Array2D",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch DynamicArray",
+      "request": "launch",
+      "mainClass": "Concepts.Array.DynamicArray",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch InsertionInArray",
+      "request": "launch",
+      "mainClass": "Concepts.Array.InsertionInArray",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch UnsortedSearchingArray",
+      "request": "launch",
+      "mainClass": "Concepts.Array.UnsortedSearchingArray",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch AggrigationTask",
+      "request": "launch",
+      "mainClass": "Concepts.CollectionsJava.AggrigationTask",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch ArrayCustomObjColl",
+      "request": "launch",
+      "mainClass": "Concepts.CollectionsJava.ArrayCustomObjColl",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch BookLLTask",
+      "request": "launch",
+      "mainClass": "Concepts.CollectionsJava.BookLLTask",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch LinkedList",
+      "request": "launch",
+      "mainClass": "Concepts.CollectionsJava.LinkedList",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch LinkedListColl",
+      "request": "launch",
+      "mainClass": "Concepts.CollectionsJava.LinkedListColl",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch MeraCellTask",
+      "request": "launch",
+      "mainClass": "Concepts.CollectionsJava.MeraCellTask",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch ConceptsMain",
+      "request": "launch",
+      "mainClass": "Concepts.ConceptsMain",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch FactoryPattren",
+      "request": "launch",
+      "mainClass": "Concepts.DesignPatterns.FactoryPattren",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch SingletonPattern",
+      "request": "launch",
+      "mainClass": "Concepts.DesignPatterns.SingletonPattern",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch ByteStream",
+      "request": "launch",
+      "mainClass": "Concepts.IOSTREAMS.ByteStream",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch CharStream",
+      "request": "launch",
+      "mainClass": "Concepts.IOSTREAMS.CharStream",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch FileIOStream",
+      "request": "launch",
+      "mainClass": "Concepts.IOSTREAMS.FileIOStream",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch FileReaderJava",
+      "request": "launch",
+      "mainClass": "Concepts.IOSTREAMS.FileReaderJava",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch FileWriterJava",
+      "request": "launch",
+      "mainClass": "Concepts.IOSTREAMS.FileWriterJava",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch CRUD",
+      "request": "launch",
+      "mainClass": "Concepts.JDBC.CRUD",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch JdbcConn",
+      "request": "launch",
+      "mainClass": "Concepts.JDBC.JdbcConn",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch JdbcDemo",
+      "request": "launch",
+      "mainClass": "Concepts.JDBC.JdbcDemo",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch MultiThreadingRunnable",
+      "request": "launch",
+      "mainClass": "Concepts.Multithreading.MultiThreadingRunnable",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch MultithreadingJavaWithThreadClass",
+      "request": "launch",
+      "mainClass": "Concepts.Multithreading.MultithreadingJavaWithThreadClass",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Recursion",
+      "request": "launch",
+      "mainClass": "Concepts.Recursion.Recursion",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch CustomisedSerialization",
+      "request": "launch",
+      "mainClass": "Concepts.SerializationJava.CustomisedSerialization",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch GFG",
+      "request": "launch",
+      "mainClass": "Concepts.SerializationJava.GFG",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch ObjectMapper",
+      "request": "launch",
+      "mainClass": "Concepts.SerializationJava.ObjectMapper",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch SerializationBasic",
+      "request": "launch",
+      "mainClass": "Concepts.SerializationJava.SerializationBasic",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Cars",
+      "request": "launch",
+      "mainClass": "OOPS.Cars",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Constructors",
+      "request": "launch",
+      "mainClass": "OOPS.Constructors",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Demo",
+      "request": "launch",
+      "mainClass": "OOPS.Demo",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Static_",
+      "request": "launch",
+      "mainClass": "OOPS.Static_",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch AlternateArr",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.AlternateArr",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch ArrNoFreq",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.ArrNoFreq",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch BeanProduct",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.BeanProduct",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch EqualArrOrNot",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.EqualArrOrNot",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch FeqOfArray",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.FeqOfArray",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch FindIndex",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.FindIndex",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch MaxMinArr",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.MaxMinArr",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch MaximumSubarray",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.MaximumSubarray",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch PalindromicArray",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.PalindromicArray",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch PerfectArr",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.PerfectArr",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Phonebook",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.Phonebook",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch PildromArray",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.PildromArray",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch ReverseArr",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.ReverseArr",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Anagram",
+      "request": "launch",
+      "mainClass": "Questions.StringsQuestions.Anagram",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch CapitalizeFirstLetter",
+      "request": "launch",
+      "mainClass": "Questions.StringsQuestions.CapitalizeFirstLetter",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Equal_point_in_a_string_of_brackets",
+      "request": "launch",
+      "mainClass": "Questions.StringsQuestions.Equal_point_in_a_string_of_brackets",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch N_equal_parts",
+      "request": "launch",
+      "mainClass": "Questions.StringsQuestions.N_equal_parts",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Palidrom",
+      "request": "launch",
+      "mainClass": "Questions.StringsQuestions.Palidrom",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch RemoveVowelAndDisplay",
+      "request": "launch",
+      "mainClass": "Questions.StringsQuestions.RemoveVowelAndDisplay",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch ReverseString",
+      "request": "launch",
+      "mainClass": "Questions.StringsQuestions.ReverseString",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch TotalNoOfPanctuations",
+      "request": "launch",
+      "mainClass": "Questions.StringsQuestions.TotalNoOfPanctuations",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch TotalNoOfStrings",
+      "request": "launch",
+      "mainClass": "Questions.StringsQuestions.TotalNoOfStrings",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch VowelsAndConsonants",
+      "request": "launch",
+      "mainClass": "Questions.StringsQuestions.VowelsAndConsonants",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Swap",
+      "request": "launch",
+      "mainClass": "Questions.Swap",
+      "projectName": "DsAlgo2022_f7cccc7e"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\OBLIVION\\Downloads\\jdbc-oracle.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
