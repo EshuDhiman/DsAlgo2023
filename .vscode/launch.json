@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LongestCommonPrefix",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.LongestCommonPrefix",
+      "projectName": "DsAlgo2023_d6b42f03"
+    },
+    {
+      "type": "java",
+      "name": "LengthOfLastWord",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.LengthOfLastWord",
+      "projectName": "DsAlgo2023_d6b42f03"
+    },
+    {
+      "type": "java",
+      "name": "Duplicate",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.Duplicate",
+      "projectName": "DsAlgo2023_d6b42f03"
+    },
+    {
+      "type": "java",
+      "name": "AlternateArr",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.AlternateArr",
+      "projectName": "DsAlgo2023_d6b42f03"
+    },
+    {
+      "type": "java",
+      "name": "AddDigits",
+      "request": "launch",
+      "mainClass": "Questions.Maths.AddDigits",
+      "projectName": "DsAlgo2023_d6b42f03"
+    },
+    {
+      "type": "java",
       "name": "Test",
       "request": "launch",
       "mainClass": "Questions.test.Test",

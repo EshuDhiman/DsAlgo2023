@@ -8,7 +8,7 @@ public class LengthOfLastWord {
 
     public static int lengthOfLastWord(String s) {
         s = s.trim(); // trim function removes blank or white spaces from beggining and end of the string but not in between
-        System.out.println(s);
+        // System.out.println(s);
         // check if string contains a blank space in b/w else return the length of string coz if there are no blank spaces in the string it means its a single word
         if (s.contains(" ")) {
             //character array
