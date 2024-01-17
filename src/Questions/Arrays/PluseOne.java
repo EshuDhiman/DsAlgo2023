@@ -5,11 +5,11 @@ package Questions.Arrays;
 // Incrementing by one gives 4321 + 1 = 4322.
 // Thus, the result should be [4,3,2,2].
 public class PluseOne {
-public static void main(String[] args) {
-    int[] arr = {4,3,2,1};
-    plusOne(arr);
-    
-}
+    public static void main(String[] args) {
+        int[] arr = {4,3,2,1};
+        plusOne(arr);
+
+    }
 public static  int[] plusOne(int[] digits) {
     
     if (digits[digits.length-1]==9) {
@@ -30,7 +30,6 @@ public static  int[] plusOne(int[] digits) {
     }
     return digits;
     
-
+      
 }
-    
 }

@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SingleNumber",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.SingleNumber",
+      "projectName": "DsAlgo2023_d6b42f03"
+    },
+    {
+      "type": "java",
+      "name": "PluseOne",
+      "request": "launch",
+      "mainClass": "Questions.Arrays.PluseOne",
+      "projectName": "DsAlgo2023_d6b42f03"
+    },
+    {
+      "type": "java",
       "name": "LongestCommonPrefix",
       "request": "launch",
       "mainClass": "Questions.Arrays.LongestCommonPrefix",
